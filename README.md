@@ -1,1 +1,1 @@
-https://manatalli.github.io/rsschool-cv/cv\
+https://manatalli.github.io/rsschool-cv/cv
