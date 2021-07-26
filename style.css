@@ -1,0 +1,18 @@
+.background-gray {
+    background-color: antiquewhite; 
+}
+.org {
+    color: saddlebrown;
+}
+.center {
+    text-align: center;
+}
+.head { 
+    font: bold, 64px, Verdano, self-series;
+
+}
+.section {
+    font: bold, 24px, Verdano, self-series ;
+}
+.pain {font: 24px, Verdano, self-series;
+}
