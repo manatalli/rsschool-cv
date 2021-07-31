@@ -9,10 +9,10 @@
 }
 .head { 
     font: bold, 64px, Verdano, self-series;
-
 }
 .section {
-    font: bold, 24px, Verdano, self-series ;
+    font: bold, 32px, Verdano, self-series ;
 }
-.pain {font: 24px, Verdano, self-series;
+.pain {
+    font: 24px, Verdano, self-series;
 }
